@@ -30,22 +30,31 @@
 omega 評比指標
 ![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/omega-ranking.png)
 
+
 riskness 評比指標
 ![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/riskness-ranking.png)
 
+
 sharp ratio ASKSR 評比指標
 ![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/ASKSR-ranking.png)
+
 
 #周資料分析組  
 
 omega 評比指標
 ![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/omega-weekly.png)
+---
+
 
 riskness 評比指標
 ![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/riskness-week.png)
 
+
 sharp ratio ASKSR 評比指標
 ![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/sharp%EF%BC%8Dweekly.png)
 
+4、各個指標結果相似嗎？
+---
+不相似。
 
 
