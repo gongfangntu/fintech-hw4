@@ -9,7 +9,9 @@
 
 得到最近三年的月资料、周资料和return資料。(見monthly.csv 、weekly.csv和 returns.csv)
 
-![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/hisrogram%E5%9C%96%E7%89%87.png)
+![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/monthly.png)
+![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/weekly.png)
+![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/returns.png)
 
 2、用omega 指標來計算
 
