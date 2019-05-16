@@ -2,7 +2,7 @@
 ==
 步驟
 ---
->1、 從Yahoo finance中爬蟲出最近三年的39种ETF的adj close 和return的資料。
+1、 從Yahoo finance中爬蟲出最近三年的39种ETF的adj close 和return的資料。
 ----
 
 数据来源：Yahoo finance 网站（https://finance.yahoo.com/quote/VNQ/performance?p=VNQ&.tsrc=fin-srch）
@@ -20,7 +20,7 @@
 畫出各月ETF的直方圖
 ![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/hisrogram%E5%9C%96%E7%89%87.png)
 畫出每個月ETF收盤價的的分布圖
-![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/pdf%E5%88%86%E5%B8%83%E5%9C%96.png）
+![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/pdf%E5%88%86%E5%B8%83%E5%9C%96.png)
 
 根據paper中的公式來算出omega的值，再根據指標進行排序。
 
