@@ -1,5 +1,5 @@
 # fintech-hw4-group14
-==
+
 步驟
 ---
 1、 從Yahoo finance中爬蟲出最近三年的39种ETF的adj close 和return的資料。
@@ -13,7 +13,7 @@
 ![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/weekly.png)
 ![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/return%20.png)
 
-参考程式见
+
 
 2、 用omega 指標來計算。
 ---
@@ -60,6 +60,12 @@ sharp ratio ASKSR 評比指標
 ![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/riskniss%20month%E5%92%8Cweek%E5%B0%8D%E6%AF%94.png)
 ![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/sharp%20ASKSR-month%20week%20%E5%B0%8D%E6%AF%94.png)
 
+5、不同指標評比結果相似嗎?
+---
 
+由下圖可以看出不相似，omega和其他兩個指標，非常不相似，但是riskness 和 sharp ASKSR 的ETF 排名比較相似。
+下圖分別為，在月資料和周資料的兩種情況下的情況。
 
+![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/%E6%9C%88%E8%B3%87%E6%96%99%E4%B8%8B%E4%B8%89%E5%80%8B%E6%8C%87%E6%A8%99%20.png)
 
+![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/%E5%91%A8%E8%B3%87%E6%96%99%E4%B8%8B%E4%B8%89%E5%80%8B%E6%8C%87%E6%A8%99%E6%8E%92%E5%90%8D.png)
