@@ -22,6 +22,24 @@
 畫出每個月ETF收盤價的的分布圖
 ![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/pdf%E5%88%86%E5%B8%83%E5%9C%96.png)
 
-根據paper中的公式來算出omega的值，再根據指標進行排序。
+
+3、 根據paper中的，再根據指標進行排序。
+---
+月資料分析組  
+omega 評比指標
+![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/omega-ranking.png)
+riskness 評比指標
+![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/riskness-ranking.png)
+sharp ratio ASKSR 評比指標
+![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/ASKSR-ranking.png)
+
+周資料分析組  
+omega 評比指標
+![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/omega-weekly.png)
+riskness 評比指標
+![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/riskness-week.png)
+sharp ratio ASKSR 評比指標
+![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/sharp%EF%BC%8Dweekly.png)
+
 
 
