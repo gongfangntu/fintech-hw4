@@ -25,7 +25,7 @@
 
 3、 根據paper中的，再根據指標進行排序。
 ---
-月資料分析組  
+#月資料分析組  
 
 omega 評比指標
 ![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/omega-ranking.png)
@@ -36,7 +36,7 @@ riskness 評比指標
 sharp ratio ASKSR 評比指標
 ![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/ASKSR-ranking.png)
 
-周資料分析組  
+#周資料分析組  
 
 omega 評比指標
 ![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/omega-weekly.png)
