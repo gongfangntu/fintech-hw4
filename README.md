@@ -29,15 +29,15 @@
 
 omega 評比指標
 ![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/omega-ranking.png)
-
+---
 
 riskness 評比指標
 ![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/riskness-ranking.png)
-
+---
 
 sharp ratio ASKSR 評比指標
 ![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/ASKSR-ranking.png)
-
+---
 
 #周資料分析組  
 
@@ -45,16 +45,21 @@ omega 評比指標
 ![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/omega-weekly.png)
 ---
 
-
 riskness 評比指標
 ![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/riskness-week.png)
-
+---
 
 sharp ratio ASKSR 評比指標
 ![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/sharp%EF%BC%8Dweekly.png)
-
-4、各個指標結果相似嗎？
 ---
-不相似。
+
+4、週資料或月資料結果評比相似嗎?
+----
+大致相似，omega 指標評比出來的ETF 的月和周的順序是一致。riskness 和sharpASKSR 的月和周的ETF 排名大概是一樣的。
+![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/omega%20month%20%E4%B8%8Eweek%20%E5%B0%8D%E6%AF%94.png)
+![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/riskniss%20month%E5%92%8Cweek%E5%B0%8D%E6%AF%94.png)
+![Alt text](https://github.com/gongfangntu/fintech-hw4/blob/master/images/sharp%20ASKSR-month%20week%20%E5%B0%8D%E6%AF%94.png)
+
+
 
 
